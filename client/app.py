@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 #API url
-url = 'http://127.0.0.1:8000/'
+url = 'https://banking-chatbot-nlp.onrender.com/'
 
 #Initialize session state
 if "logged_in" not in st.session_state:

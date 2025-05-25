@@ -13,7 +13,7 @@ import json
 app = FastAPI()
 
 #Cross origin resource sharing
-origins=['http://localhost:8502']
+origins=['https://rishabhpancholi-banking-chatbot-nlp-clientapp-wm9sen.streamlit.app']
 
 app.add_middleware(
     CORSMiddleware,
