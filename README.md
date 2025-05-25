@@ -10,20 +10,26 @@ This is a **Banking FAQ Chatbot** where:
 
 ## 🚀 Features
 
-1. **Top Rated Books Page** 📖  
-   Displays the most popular books based on average user ratings.
+1. **Smart Query Response 🧠**
+   Provides intelligent answers to user queries using an intent prediction model.
 
-2. **Book Recommendation Page** 🔍  
-   Select a book, and it shows **5 similar books** using **collaborative filtering** based on user ratings.
+2. **User Authentication 🔐**  
+   Users can sign up, log in, log out, and delete their account securely.
+
+3. **Chat History Management 💬**
+   Stores each user's queries and chatbot responses in a SQLite3 database for persistence.
 
 ---
 
 ## 🧠 How It Works
 
-- We created a **pivot table**: Users × Books with their respective ratings.
-- This pivot table is used as an **embedding matrix**.
-- Using **cosine similarity**, we compute the similarity between books.
-- Based on this similarity, we return the top 5 recommendations for any selected book.
+- The chatbot **preprocesses** user input and vectorizes it using a **Bag of Words** model with ngram_range=(1, 2).
+- The vectorized text is passed to a **Logistic Regression classifier** (multi_class='multinomial'), which achieves a **94% test accuracy**.
+- The model predicts the **intent probabilities**, and the intent with the **highest probability** is selected.
+- To reduce hallucinations and increase response accuracy, a **confidence score threshold** is used.
+- Based on the predicted intent, the bot picks a **random response** from a list of predefined replies for that intent.
+- User data (username, password) and chat data (user input, bot response) are stored using **SQLite3**.
+- Pydantic's BaseModel is used to define and validate **User** and **Chat** schemas.
 
 ---
 
