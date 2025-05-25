@@ -1,0 +1,153 @@
+[{
+  "category": "wrong_amount_of_cash_received",
+  "responses": [
+    "We apologize for the inconvenience caused by the discrepancy in the cash amount you received. To resolve this issue promptly, please visit your nearest branch or contact our customer service team to report the matter. You can also use our mobile app to raise a dispute regarding the transaction. Kindly keep your transaction receipt handy for verification purposes, and if preferred, you may submit a formal complaint through our online banking portal. We appreciate your patience as we work to address this situation.",
+    "We regret the inconvenience caused by the incorrect cash amount you received. To assist you effectively, we recommend visiting the nearest branch or reaching out to our customer service team to report the issue. Alternatively, you may initiate a dispute through our mobile app. Please ensure you have your transaction receipt available for verification, and you can also file a complaint via our online banking portal if you prefer. Thank you for your understanding while we work to resolve this matter.",
+    "We apologize for the trouble caused by the incorrect cash amount dispensed. To resolve this promptly, please visit your closest branch or contact our customer support team to report the issue. You may also raise a dispute through our mobile application. Make sure to keep your transaction receipt ready for verification. Additionally, you can submit a complaint using our online banking platform. We appreciate your patience as we address this matter.",
+    "We sincerely regret any inconvenience caused by the cash amount discrepancy. To help resolve this issue, please visit the nearest branch or get in touch with our customer service team. You can also file a dispute via our mobile app. Ensure you have your transaction receipt available for verification. Additionally, complaints can be submitted through our online banking portal. Thank you for your patience as we work on a solution.",
+    "We apologize for the inconvenience caused by the incorrect cash dispensed. To address this matter, please visit your local branch or contact our customer support team. You may also report the issue through our mobile app by raising a dispute. Keep your transaction receipt handy for verification. Additionally, you can lodge a complaint via our online banking service. We appreciate your patience as we resolve this issue."
+  ]
+},
+{
+  "category": "card_payment_fee_charged",
+  "responses": [
+    "We apologize for any confusion caused by the fee charged on your card payment. To clarify or dispute the charge, please contact our customer service team or visit the nearest branch. You may also use our mobile app to review your transaction details or raise a dispute. Keeping your transaction receipt or statement handy will assist in verification. Additionally, complaints can be submitted through our online banking portal. We appreciate your patience as we address your concern.",
+    "We regret any inconvenience caused by the payment fee applied to your card transaction. For assistance, please reach out to our customer support or visit a local branch. You can also check and dispute the fee using our mobile app. Make sure to have your transaction details available for smooth verification. You may also file a formal complaint via our online banking platform. Thank you for your understanding while we resolve this matter.",
+    "We apologize for the unexpected fee on your card payment. To resolve this, please contact customer service or visit the nearest branch for further assistance. You may also use the mobile app to raise a dispute or review your transaction history. Please keep your transaction receipt for verification purposes. Complaints can also be submitted through our online banking service. We appreciate your patience during this process.",
+    "We sincerely regret any inconvenience caused by the card payment fee. To address your concern, please get in touch with our customer support team or visit the closest branch. You may also file a dispute via our mobile app. Ensure you have your transaction details ready for verification. Additionally, complaints can be lodged through our online banking portal. Thank you for your patience as we work on this.",
+    "We apologize for any issues related to the fee charged on your card transaction. For resolution, please visit a branch or contact our customer service team. You can also dispute the fee using our mobile application. Having your transaction receipt available will help with verification. Formal complaints can be submitted through our online banking platform. We appreciate your understanding as we work to resolve your concern."
+  ]
+}
+,
+{
+  "category": "transfer_not_received_by_recipient",
+  "responses": [
+    "We apologize for the delay in the transfer reaching the intended account. Please contact our customer service team or visit your nearest branch to report the issue. You can also track the transaction and raise a dispute through our mobile app. Keeping your transaction reference number handy will help expedite verification. Additionally, you may submit a complaint through our online banking portal. We appreciate your patience as we work to resolve this matter.",
+    "We regret the inconvenience caused due to the transfer not being credited. To assist you, please get in touch with our customer support or visit a local branch. You may also check the status and raise concerns via our mobile app. Please have your transaction details ready for verification. Complaints can be filed through our online banking platform as well. Thank you for your understanding while we address this issue.",
+    "We apologize for the inconvenience regarding the transfer delay. To resolve this, please contact customer service or visit the nearest branch. You can also use our mobile app to review the transaction and submit a dispute. Ensure you keep your transaction reference for verification purposes. Formal complaints can be lodged through our online banking service. We appreciate your patience during this process.",
+    "We sincerely regret any inconvenience caused by the transfer not reflecting in the intended account. Please reach out to our customer support team or visit your closest branch to report this issue. You may also raise a dispute through our mobile application. Keep your transaction details ready to assist with verification. Complaints can be submitted via our online banking portal. Thank you for your patience as we work on a solution.",
+    "We apologize for the delay in transfer processing. For assistance, please visit a branch or contact our customer service team. You can also track and dispute the transaction through our mobile app. Having your transaction reference number handy will aid in verification. You may also submit a formal complaint through our online banking platform. We appreciate your understanding while we resolve this concern."
+  ]
+}
+,
+{
+  "category": "balance_not_updated_after_cheque_or_cash_deposit",
+  "responses": [
+    "We apologize for the delay in updating your balance after the cheque or cash deposit. Please visit your nearest branch or contact our customer service to report this issue. You may also use our mobile app to check the status and raise a concern. Keeping your deposit receipt handy will help in verifying the transaction. Additionally, complaints can be submitted through our online banking portal. We appreciate your patience while we resolve this matter.",
+    "We regret any inconvenience caused by the balance not reflecting after your deposit. To assist you, please get in touch with our customer support or visit a local branch. You can also track the deposit and report the issue through our mobile app. Please have your deposit details ready for verification. Complaints may also be filed via our online banking platform. Thank you for your understanding as we work to update your balance.",
+    "We apologize for the inconvenience caused by the balance not being updated after your deposit. To address this, please contact customer service or visit the nearest branch. You can also use the mobile app to check your deposit status and raise a dispute if necessary. Make sure to keep your deposit receipt for verification. Formal complaints can be submitted through our online banking service. We appreciate your patience as we resolve this issue.",
+    "We sincerely regret any inconvenience caused by the delay in reflecting your deposit in the account balance. Please reach out to our customer support or visit the closest branch to report this. You may also raise a concern through our mobile app. Ensure you have your deposit receipt available for verification. Complaints can be lodged via our online banking portal. Thank you for your patience as we work on a resolution.",
+    "We apologize for the delay in balance update following your cheque or cash deposit. For assistance, please visit a branch or contact our customer service team. You may also track and report the issue through our mobile application. Having your deposit receipt ready will aid verification. You can also submit a formal complaint through our online banking platform. We appreciate your understanding while we address this matter."
+  ]
+}
+,
+{
+  "category": "direct_debit_payment_not_recognised",
+  "responses": [
+    "We apologize for any confusion caused by the unrecognized direct debit payment. To address this, please contact our customer service or visit your nearest branch. You may also review recent transactions and raise a dispute through our mobile app. Kindly keep your account statement or payment reference handy for verification. Additionally, a formal complaint can be submitted via our online banking portal. We appreciate your patience as we look into the matter.",
+    "We regret the inconvenience caused by the direct debit payment that appears unfamiliar. For support, we recommend reaching out to our customer care team or visiting your local branch. You can also view and report the transaction using our mobile app. Please ensure you have relevant transaction details available for verification. Complaints can also be filed through our online banking platform. Thank you for your understanding.",
+    "We apologize for the issue concerning the direct debit transaction you do not recognize. To resolve this, please contact our support team or go to the nearest branch. Alternatively, use our mobile application to report and review the transaction. Keeping your account details or reference number ready will assist in verification. You may also raise a formal complaint through our online banking system. We appreciate your cooperation as we investigate this.",
+    "We sincerely regret any confusion regarding the unrecognized direct debit charge. For prompt resolution, please visit your nearest branch or contact customer support. You may also dispute the transaction using our mobile app. Having your recent transaction details ready will help in the verification process. Complaints can additionally be submitted via our online banking portal. Thank you for your patience as we work to address this issue.",
+    "We apologize for the inconvenience related to the unfamiliar direct debit. To resolve this matter, we recommend reaching out to our customer service team or visiting a branch. You can also track and dispute the transaction via our mobile banking app. Please keep the payment reference or statement available for verification. Complaints may be submitted through our online portal. We appreciate your understanding while we investigate."
+  ]
+}
+,
+{
+  "category": "declined_cash_withdrawal",
+  "responses": [
+    "We apologize for the inconvenience caused by the declined cash withdrawal. To resolve this issue, we suggest visiting your nearest branch or contacting our customer service team. You may also use our mobile app to check the transaction status and raise a concern if necessary. Please keep your transaction details or receipt ready for verification. A formal complaint can also be submitted through our online banking portal. We appreciate your patience as we work to address this matter.",
+    "We regret any inconvenience caused due to the cash withdrawal being declined. To assist you further, please reach out to our customer care team or visit your local branch. You can also review the transaction and report the issue via our mobile banking application. Keeping the receipt or transaction reference will help us in resolving the issue efficiently. You may also file a complaint through the online banking platform. Thank you for your understanding.",
+    "We apologize for the declined cash withdrawal transaction. For a quick resolution, we recommend contacting our customer support or visiting the nearest branch. You can also view the transaction details and raise a concern through our mobile app. Kindly have your receipt or transaction ID available for verification. Formal complaints can also be lodged using our online banking portal. We appreciate your cooperation.",
+    "We sincerely regret the inconvenience caused by the failure of your cash withdrawal. To look into this matter, please contact our customer service team or visit a nearby branch. You may also raise a dispute using our mobile application. Please keep the relevant transaction details ready for quicker assistance. Alternatively, you can lodge a complaint through our online banking service. Thank you for your patience.",
+    "We apologize for the declined withdrawal attempt. To address the issue, please get in touch with our support team or visit your closest branch. You can also use our mobile banking app to review the transaction and raise a concern. Keeping your receipt or transaction reference will help expedite the process. Complaints can be submitted through our online portal. We appreciate your understanding as we resolve the matter."
+  ]
+}
+,
+{
+  "category": "transaction_charged_twice",
+  "responses": [
+    "We apologize for the inconvenience caused by the duplicate charge on your transaction. To help resolve this matter, we recommend contacting our customer support team or visiting your nearest branch. You may also raise a dispute for the duplicate charge using our mobile app. Kindly keep the relevant transaction details or receipts ready for verification. Additionally, you can submit a formal complaint through our online banking portal. We appreciate your patience as we investigate and address this issue.",
+    "We regret the inconvenience of the transaction being charged twice. For prompt assistance, please reach out to our customer care team or visit a nearby branch. You can also report the duplicate charge through our mobile banking app. Having your transaction references ready will help in the verification process. You may also file a complaint via our online banking system. Thank you for your understanding as we work to resolve the matter.",
+    "We apologize for any inconvenience caused by a duplicate transaction charge. To address this issue, we suggest contacting our support team or visiting the nearest branch. You may also initiate a dispute using the mobile application. Please keep your transaction details available for a smooth verification process. A formal complaint can also be lodged through our online banking service. We appreciate your cooperation.",
+    "We sincerely regret the error resulting in a double charge for your transaction. To resolve this efficiently, you may contact customer service or visit your local branch. Our mobile banking app also allows you to raise a dispute for duplicate charges. Ensure you have the necessary transaction details on hand for quicker assistance. Complaints can additionally be submitted through our online banking platform. Thank you for your patience.",
+    "We apologize for the duplicate charge on your account. To investigate this, kindly reach out to our customer support team or visit a nearby branch. You may also report the issue through the mobile app by raising a dispute. Having your transaction receipt or reference number will help expedite the process. Formal complaints can also be filed via the online portal. We appreciate your understanding as we work to correct the issue."
+  ]
+}
+,
+{
+  "category": "transfer_fee_charged",
+  "responses": [
+    "We apologize for the inconvenience caused by the transfer fee charged on your transaction. To understand the nature of the fee and seek resolution, we recommend reviewing the fee details in your transaction history via our mobile app or internet banking platform. If the charge appears to be incorrect, please contact our customer service team or visit your nearest branch for further assistance. You may also submit a formal complaint through our online banking portal. We appreciate your patience as we review the matter.",
+    
+    "We regret any confusion or inconvenience caused due to the fee applied during your fund transfer. You can check the details of the charge through your online banking account or mobile application. If you believe the fee was applied in error, we encourage you to reach out to our support team or visit the nearest branch for clarification and assistance. You can also lodge a complaint using the online banking portal. Thank you for your understanding while we look into this matter.",
+    
+    "We understand your concern regarding the fee charged on your recent transfer and apologize for any inconvenience caused. For clarity on the applicable charges, please refer to your transaction summary in the mobile app or online banking. Should the charge seem incorrect, you may contact our customer support team or visit a local branch to raise the issue. Formal complaints can also be submitted through our online portal. We are committed to resolving this as quickly as possible.",
+    
+    "We apologize for the unexpected fee applied to your fund transfer. To address this, we suggest reviewing your transaction statement through our mobile or internet banking service. If the charge appears to be inaccurate, please report it to our customer support or visit your nearest branch. Additionally, you can file a complaint using our online banking platform. We appreciate your cooperation as we investigate the issue.",
+    
+    "We regret any inconvenience caused by the transfer fee on your transaction. To verify the charge and determine whether it was applied correctly, you may check the transaction breakdown via our online or mobile banking services. For further help, you can reach out to our support team or visit the closest branch. If needed, a complaint can also be filed through our digital banking portal. Thank you for your patience and understanding."
+  ]
+}
+,
+{
+  "category": "balance_not_updated_after_bank_transfer",
+  "responses": [
+    "We apologize for the inconvenience caused due to the bank transfer not reflecting in your account balance. In such cases, delays can sometimes occur due to processing times between financial institutions. We recommend checking your transaction history through our mobile app or online banking to confirm the transfer status. If the balance still hasn't updated, please contact our customer support team or visit your nearest branch for assistance. You may also raise a complaint through our online banking portal. We appreciate your patience as we look into this matter.",
+    
+    "We regret the delay in updating your balance following a bank transfer. Occasionally, inter-bank transfers may take additional time to reflect depending on the processing schedules. Please verify your transaction status via mobile or internet banking. If the balance is still not updated, we suggest contacting our customer care team or visiting your local branch. You can also file a formal complaint through our online portal. We thank you for your understanding while we work to resolve this issue.",
+    
+    "We sincerely regret the inconvenience caused by your account balance not reflecting the recent bank transfer. Transaction updates may experience a delay due to banking system processing windows. You may view the transaction details in your mobile or online banking account. If the issue persists, please get in touch with our customer service team or visit a nearby branch. Complaints can also be lodged through our online banking portal. We are actively working to assist you.",
+    
+    "We understand your concern regarding the balance not updating after a bank transfer and apologize for the inconvenience. Processing delays may occur depending on the timing and type of transfer. Please confirm the transaction status through your account on our mobile app or online banking. If the transfer has completed but the balance remains unchanged, kindly reach out to our support team or visit your nearest branch. A formal complaint can also be submitted via our internet banking service. Thank you for your patience.",
+    
+    "We apologize for the delay in updating your balance after a bank transfer. These issues may arise due to inter-bank processing delays. We suggest checking your account statement on our mobile or online banking platforms. If your balance is still not reflecting the transfer, please contact our customer support team or visit a nearby branch. You also have the option to submit a complaint through our online banking portal. We appreciate your cooperation while we investigate this matter."
+  ]
+}
+,
+{
+  "category": "cash_withdrawal_charge",
+  "responses": [
+    "We apologize for any confusion caused by the cash withdrawal charge. Certain charges may apply based on your account type, withdrawal limits, or the ATM network used. You can review the detailed fee structure through our official website or mobile app. If you believe the charge was applied in error, please contact our customer support team or visit your nearest branch. Alternatively, you may raise a dispute through our online banking portal. We appreciate your understanding while we assist you with this matter.",
+    
+    "We regret any inconvenience caused due to the cash withdrawal charge on your account. Please note that withdrawal charges may be applicable based on the number of free transactions, ATM type (domestic/international), or card usage terms. For more information, kindly refer to the charges section in your account details via online or mobile banking. Should you wish to dispute the charge, you may contact our support team or raise a complaint online. We are here to help resolve your concerns.",
+    
+    "We understand your concern regarding the cash withdrawal charge and apologize for any inconvenience. Such charges are typically levied based on your account's withdrawal limit or ATM usage beyond the free transaction count. You may check your account's transaction history and fee details via our app or online banking. If the fee appears incorrect, please connect with our customer service or file a complaint through the banking portal. Thank you for your patience as we look into this issue.",
+    
+    "We sincerely apologize if a cash withdrawal charge has caused any confusion. Charges may apply after exceeding the permitted number of free withdrawals or for using a third-party ATM. You can verify these details through your account statement online or via our mobile application. If the charge does not align with your account’s fee structure, please reach out to our support team or raise a formal complaint through our online banking services. We appreciate your cooperation.",
+    
+    "We apologize for the inconvenience caused due to a charge on your recent cash withdrawal. Such fees are generally in accordance with our service and account policies. You can view the applicable withdrawal charges in the account section of our mobile or internet banking platforms. If you believe this charge was wrongly applied, we recommend contacting customer care or visiting your local branch. You may also report this through the complaint section on our online portal. We are committed to resolving your concerns."
+  ]
+}
+,
+{
+  "category": "greeting",
+  "responses": [
+    "Hello, and thank you for reaching out to us. How may we assist you today?",
+    "Good day. You're connected to our support service. Please let us know how we can help.",
+    "Welcome to our banking support. Kindly share your query, and we will be happy to assist.",
+    "Greetings. We are here to help you with any banking-related concerns you may have.",
+    "Thank you for contacting us. Please let us know how we can assist you further.",
+    "Hello. We appreciate you reaching out. How may we be of service today?",
+    "Good to have you here. Please tell us what you need help with, and we will assist you shortly.",
+    "Hi there. Thank you for getting in touch with us. How can we help you today?",
+    "Welcome to our customer service channel. We are ready to assist you with your queries.",
+    "Hello and welcome. Please let us know how we may be of assistance to you."
+  ]
+}
+,
+{
+  "category": "closure",
+  "responses": [
+    "Thank you for contacting us. If you have any further questions, feel free to reach out again.",
+    "We appreciate your time. Should you need any additional assistance, we are here to help.",
+    "It was our pleasure to assist you. Have a great day ahead.",
+    "Thank you for reaching out. We’re here if you need anything else.",
+    "Your query has been noted. Please don’t hesitate to contact us again if needed.",
+    "We hope your concern has been addressed. Have a wonderful day.",
+    "Thank you for choosing our services. Feel free to reach out anytime.",
+    "Glad we could assist. Take care and feel free to contact us in the future.",
+    "We appreciate your communication. Please let us know if you require anything further.",
+    "Thank you for your time. We remain available for any future queries you may have."
+  ]
+}
+]
