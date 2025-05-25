@@ -24,7 +24,7 @@ This is a **Banking FAQ Chatbot** where:
 ## 🧠 How It Works
 
 - The chatbot **preprocesses** user input and vectorizes it using a **Bag of Words** model with ngram_range=(1, 2).
-- The vectorized text is passed to a **Logistic Regression classifier** (multi_class='multinomial'), which achieves a **94% test accuracy**.
+- The vectorized text is passed to a **Logistic Regression classifier** (multi_class='multinomial'), which achieves a **~94% test accuracy**.
 - The model predicts the **intent probabilities**, and the intent with the **highest probability** is selected.
 - To reduce hallucinations and increase response accuracy, a **confidence score threshold** is used.
 - Based on the predicted intent, the bot picks a **random response** from a list of predefined replies for that intent.
