@@ -99,7 +99,6 @@ with tab2:
                         st.session_state.username = ""
                         st.session_state.password = ""
                         st.success("Account deleted successfully")
-                        st.rerun()
 
                     else:
                         st.error("Username not available")
